@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" witdh="400" height="280" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <br>
-- 🔭 I’m currently working on React
+- 🔭 I’m currently working on Angular
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning ****
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
